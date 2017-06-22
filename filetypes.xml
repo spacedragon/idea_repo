@@ -1,0 +1,99 @@
+<application>
+  <component name="CommunityFileTypes" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;*.o;*.obj;" />
+    <extensionMap>
+      <mapping pattern="words3" type="PLAIN_TEXT" />
+      <mapping pattern="words2" type="PLAIN_TEXT" />
+      <mapping pattern="words1" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="sbt" type="PLAIN_TEXT" />
+      <mapping pattern="buildsh" type="PLAIN_TEXT" />
+      <mapping ext="lua" type="PLAIN_TEXT" />
+      <mapping ext="tagx" type="XML" />
+      <mapping ext="jspx" type="XML" />
+    </extensionMap>
+    <setting name="fileTypeChangedCounter" value="10" />
+  </component>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.*;CVS;RCS;SCCS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="Binder" type="CLASS" />
+      <mapping ext="jshtml" type="HTML" />
+      <mapping ext="kid" type="HTML" />
+      <mapping pattern="dependencies" type="PLAIN_TEXT" />
+      <mapping pattern="ContentType_FormUrlEncoded" type="PLAIN_TEXT" />
+      <mapping pattern="compile" type="PLAIN_TEXT" />
+      <mapping pattern="edp-login" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="slaves" type="PLAIN_TEXT" />
+      <mapping pattern="text" type="PLAIN_TEXT" />
+      <mapping pattern="detect" type="PLAIN_TEXT" />
+      <mapping pattern="subscribe" type="PLAIN_TEXT" />
+      <mapping pattern="bandwidth" type="PLAIN_TEXT" />
+      <mapping pattern="routes" type="PLAIN_TEXT" />
+      <mapping pattern="esurfing-ss" type="PLAIN_TEXT" />
+      <mapping pattern="demo" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="testfile" type="PLAIN_TEXT" />
+      <mapping pattern="edptools" type="PLAIN_TEXT" />
+      <mapping pattern="t" type="PLAIN_TEXT" />
+      <mapping pattern="part-r-00000" type="PLAIN_TEXT" />
+      <mapping pattern="part-00000" type="PLAIN_TEXT" />
+      <mapping pattern="ffmpegarg" type="PLAIN_TEXT" />
+      <mapping pattern="src" type="PLAIN_TEXT" />
+      <mapping pattern="name" type="PLAIN_TEXT" />
+      <mapping pattern="sysvinitfiles" type="PLAIN_TEXT" />
+      <mapping pattern="app" type="PLAIN_TEXT" />
+      <mapping pattern="MANIFEST" type="PLAIN_TEXT" />
+      <mapping pattern="spring" type="PLAIN_TEXT" />
+      <mapping pattern="release" type="PLAIN_TEXT" />
+      <mapping pattern="masters" type="PLAIN_TEXT" />
+      <mapping pattern="esurfing-rp" type="PLAIN_TEXT" />
+      <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="COPYING" type="PLAIN_TEXT" />
+      <mapping pattern="edpconfig" type="PLAIN_TEXT" />
+      <mapping pattern="appinfo" type="PLAIN_TEXT" />
+      <mapping pattern="META-APP" type="PLAIN_TEXT" />
+      <mapping pattern="esurfing-om" type="PLAIN_TEXT" />
+      <mapping pattern="words1" type="PLAIN_TEXT" />
+      <mapping pattern="types" type="PLAIN_TEXT" />
+      <mapping pattern="pydhcp" type="PLAIN_TEXT" />
+      <mapping pattern="" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="schemas" type="PLAIN_TEXT" />
+      <mapping ext="lst" type="PLAIN_TEXT" />
+      <mapping ext="propertes" type="PLAIN_TEXT" />
+      <mapping ext="plugins" type="PLAIN_TEXT" />
+      <mapping ext="tmpl" type="PLAIN_TEXT" />
+      <mapping ext="orig" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="dsl" type="PLAIN_TEXT" />
+      <mapping ext="god" type="PLAIN_TEXT" />
+      <mapping ext="pot" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="ice" type="PLAIN_TEXT" />
+      <mapping ext="rej" type="PLAIN_TEXT" />
+      <mapping ext="rdp" type="PLAIN_TEXT" />
+      <mapping ext="mysql" type="PLAIN_TEXT" />
+      <mapping ext="orm" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="product" type="PLAIN_TEXT" />
+      <mapping ext="vm" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="working" type="PLAIN_TEXT" />
+      <mapping ext="transport" type="PLAIN_TEXT" />
+      <mapping ext="zh" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="textile" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping ext="client" type="PLAIN_TEXT" />
+      <mapping pattern="application.conf" type="Properties" />
+      <mapping ext="ini" type="Properties" />
+      <mapping ext="kml" type="XML" />
+      <mapping ext="bxml" type="XML" />
+    </extensionMap>
+  </component>
+</application>

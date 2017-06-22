@@ -1,0 +1,19 @@
+<templateSet group="proto">
+  <template name="pf" value="@ProtoField (edgeType=EdgeType.$et$,id= $id$,nameresource = &quot;$classname$#$var2$&quot;)&#10;public List&lt;$type$&gt; $var$;" description="create a new protofield" toReformat="false" toShortenFQNames="true">
+    <variable name="type" expression="variableOfType(&quot;com.neo.meta.objdsl.InterfaceProto&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="var" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="var" alwaysStopAt="false" />
+    <variable name="id" expression="lineNumber()" defaultValue="" alwaysStopAt="false" />
+    <variable name="classname" expression="qualifiedClassName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="et" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pc" value="@ProtoClass(nameresource = &quot;$class$&quot;)" description="create anotation for class" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="qualifiedClassName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
