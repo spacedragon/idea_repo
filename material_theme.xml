@@ -4,10 +4,8 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
     <option name="highlightThickness" value="1" />
-    <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="compactSidebar" value="true" />
-    <option name="tabsHeight" value="25" />
+    <option name="tabsHeight" value="50" />
     <option name="isCompactStatusBar" value="true" />
   </component>
 </application>
