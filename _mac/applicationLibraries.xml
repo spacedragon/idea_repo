@@ -27,6 +27,14 @@
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/claide-0.8.1/lib" />
       </SOURCES>
     </library>
+    <library name="Clojure-1.8.0" type="Clojure">
+      <properties version="1.8.0" />
+      <CLASSES>
+        <root url="jar://$USER_HOME$/workspace/clojure/learn/lib/clojure-1.8.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="cocoapods (v0.36.3, ruby-2.0.0-p481) [gem]">
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/cocoapods-0.36.3/bin" />
@@ -312,14 +320,7 @@
         <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.11.6-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="scala-sdk-2.11.6 (2)" type="Scala">
-      <properties>
-        <compiler-classpath>
-          <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-compiler/2.11.6/scala-compiler-2.11.6.jar" />
-          <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.6/scala-library-2.11.6.jar" />
-          <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.11.6/scala-reflect-2.11.6.jar" />
-        </compiler-classpath>
-      </properties>
+    <library name="scala-sdk-2.11.6 (2)">
       <CLASSES>
         <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.6/scala-library-2.11.6.jar!/" />
         <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.11.6/scala-reflect-2.11.6.jar!/" />
