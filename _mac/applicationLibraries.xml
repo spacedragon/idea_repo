@@ -193,11 +193,6 @@
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/netrc-0.7.8/data" />
       </SOURCES>
     </library>
-    <library name="node-DefinitelyTyped" type="javaScript">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
     <library name="nokogiri (v1.5.6, ruby-2.0.0-p481) [gem]">
       <CLASSES>
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/nokogiri-1.5.6/bin" />
