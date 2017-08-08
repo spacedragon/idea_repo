@@ -5,6 +5,7 @@
         <entry key="JSX Harmony" value="true" />
       </map>
     </option>
+    <option name="USE_SOFT_WRAPS" value="" />
   </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
