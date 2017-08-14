@@ -6,13 +6,7 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.gradle</mask>
       <mask>x</mask>
       <mask>jsx</mask>
       <mask>*.jsx?</mask>
@@ -32,8 +26,16 @@
       <mask>*.scala</mask>
       <mask>*.</mask>
       <mask>*</mask>
-      <mask>*.java</mask>
       <mask>js</mask>
+      <mask>ja</mask>
+      <mask>java</mask>
+      <mask>*.java</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradl</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
