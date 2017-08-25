@@ -1,5 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.google.gerrit.server.update.BatchUpdate.logDebug(msg,args)" />
+      </blacklist>
+    </blacklists>
   </component>
 </application>
