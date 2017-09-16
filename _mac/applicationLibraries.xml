@@ -323,7 +323,7 @@
         <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.6/scala-library-2.11.6-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="scala-sdk-2.11.8" type="Scala">
+    <library name="scala-sdk-2.12" type="Scala">
       <properties>
         <option name="languageLevel" value="Scala_2_12" />
         <compiler-classpath>
