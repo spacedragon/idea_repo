@@ -19,11 +19,13 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.*;CVS;RCS;SCCS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="Binder" type="CLASS" />
+      <removed_mapping ext="config" approved="true" type="Erlang Terms" />
       <mapping ext="jshtml" type="HTML" />
       <mapping ext="kid" type="HTML" />
       <mapping pattern="dependencies" type="PLAIN_TEXT" />
       <mapping pattern="ContentType_FormUrlEncoded" type="PLAIN_TEXT" />
       <mapping pattern="compile" type="PLAIN_TEXT" />
+      <mapping pattern="edp-login" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="slaves" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
@@ -39,6 +41,7 @@
       <mapping pattern="edptools" type="PLAIN_TEXT" />
       <mapping pattern="x" type="PLAIN_TEXT" />
       <mapping pattern="t" type="PLAIN_TEXT" />
+      <mapping pattern="part-r-00000" type="PLAIN_TEXT" />
       <mapping pattern="part-00000" type="PLAIN_TEXT" />
       <mapping pattern="ffmpegarg" type="PLAIN_TEXT" />
       <mapping pattern="src" type="PLAIN_TEXT" />
@@ -56,16 +59,13 @@
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="edpconfig" type="PLAIN_TEXT" />
       <mapping pattern="appinfo" type="PLAIN_TEXT" />
-      <mapping pattern="types" type="PLAIN_TEXT" />
       <mapping pattern="META-APP" type="PLAIN_TEXT" />
       <mapping pattern="esurfing-om" type="PLAIN_TEXT" />
-      <mapping pattern="part-r-00000" type="PLAIN_TEXT" />
       <mapping pattern="words1" type="PLAIN_TEXT" />
-      <mapping pattern="edp-login" type="PLAIN_TEXT" />
+      <mapping pattern="types" type="PLAIN_TEXT" />
       <mapping pattern="pydhcp" type="PLAIN_TEXT" />
       <mapping pattern="" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="schemas" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
@@ -90,6 +90,7 @@
       <mapping ext="zh" type="PLAIN_TEXT" />
       <mapping ext="product" type="PLAIN_TEXT" />
       <mapping ext="textile" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="client" type="PLAIN_TEXT" />
       <mapping pattern="application.conf" type="Properties" />
       <mapping ext="ini" type="Properties" />
