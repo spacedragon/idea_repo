@@ -19,13 +19,11 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.*;CVS;RCS;SCCS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="Binder" type="CLASS" />
-      <removed_mapping ext="config" approved="true" type="Erlang Terms" />
       <mapping ext="jshtml" type="HTML" />
       <mapping ext="kid" type="HTML" />
       <mapping pattern="dependencies" type="PLAIN_TEXT" />
       <mapping pattern="ContentType_FormUrlEncoded" type="PLAIN_TEXT" />
       <mapping pattern="compile" type="PLAIN_TEXT" />
-      <mapping pattern="edp-login" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="slaves" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
@@ -59,10 +57,11 @@
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="edpconfig" type="PLAIN_TEXT" />
       <mapping pattern="appinfo" type="PLAIN_TEXT" />
+      <mapping pattern="types" type="PLAIN_TEXT" />
       <mapping pattern="META-APP" type="PLAIN_TEXT" />
       <mapping pattern="esurfing-om" type="PLAIN_TEXT" />
       <mapping pattern="words1" type="PLAIN_TEXT" />
-      <mapping pattern="types" type="PLAIN_TEXT" />
+      <mapping pattern="edp-login" type="PLAIN_TEXT" />
       <mapping pattern="pydhcp" type="PLAIN_TEXT" />
       <mapping pattern="" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
@@ -83,7 +82,6 @@
       <mapping ext="rdp" type="PLAIN_TEXT" />
       <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="orm" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="working" type="PLAIN_TEXT" />
       <mapping ext="transport" type="PLAIN_TEXT" />
