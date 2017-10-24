@@ -26,7 +26,7 @@
       <mapping pattern="compile" type="PLAIN_TEXT" />
       <mapping pattern="edp-login" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="appinfo" type="PLAIN_TEXT" />
+      <mapping pattern="slaves" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern="detect" type="PLAIN_TEXT" />
       <mapping pattern="subscribe" type="PLAIN_TEXT" />
@@ -45,7 +45,6 @@
       <mapping pattern="ffmpegarg" type="PLAIN_TEXT" />
       <mapping pattern="src" type="PLAIN_TEXT" />
       <mapping pattern="name" type="PLAIN_TEXT" />
-      <mapping pattern="slaves" type="PLAIN_TEXT" />
       <mapping pattern="sysvinitfiles" type="PLAIN_TEXT" />
       <mapping pattern="app" type="PLAIN_TEXT" />
       <mapping pattern="MANIFEST" type="PLAIN_TEXT" />
@@ -58,6 +57,7 @@
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="COPYING" type="PLAIN_TEXT" />
       <mapping pattern="edpconfig" type="PLAIN_TEXT" />
+      <mapping pattern="appinfo" type="PLAIN_TEXT" />
       <mapping pattern="META-APP" type="PLAIN_TEXT" />
       <mapping pattern="esurfing-om" type="PLAIN_TEXT" />
       <mapping pattern="words1" type="PLAIN_TEXT" />
@@ -83,6 +83,7 @@
       <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="orm" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="working" type="PLAIN_TEXT" />
       <mapping ext="transport" type="PLAIN_TEXT" />
       <mapping ext="zh" type="PLAIN_TEXT" />
