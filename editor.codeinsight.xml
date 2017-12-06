@@ -3,6 +3,7 @@
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="AUTOCOMPLETE_COMMON_PREFIX" value="false" />
     <option name="SHOW_SOURCE_INFERRED_ANNOTATIONS" value="false" />
+    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
     <option name="HIGHLIGHT_IDENTIFIER_UNDER_CARET" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
