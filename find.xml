@@ -32,12 +32,12 @@
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
-      <mask>*.gradle</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>

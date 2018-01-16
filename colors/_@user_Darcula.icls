@@ -4,14 +4,14 @@
     <property name="created">2017-02-12T11:35:54</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2018-01-09T12:12:45</property>
+    <property name="modified">2018-01-14T11:30:34</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="FILESTATUS_ADDED" value="aedc70" />
-    <option name="FILESTATUS_COPIED" value="73c990" />
+    <option name="FILESTATUS_COPIED" value="aedc70" />
     <option name="FILESTATUS_DELETED" value="727072" />
     <option name="FILESTATUS_HIJACKED" value="fbd85c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="727072" />
@@ -24,7 +24,7 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="86dde9" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="86dde9" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_RENAMED" value="c679dd" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="727072" />
     <option name="FILESTATUS_SWITCHED" value="ab9df5" />
     <option name="FILESTATUS_UNKNOWN" value="f59762" />
