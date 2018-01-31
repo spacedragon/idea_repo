@@ -22,43 +22,44 @@
       <removed_mapping ext="config" type="Erlang Terms" />
       <mapping ext="jshtml" type="HTML" />
       <mapping ext="kid" type="HTML" />
+      <mapping pattern="MANIFEST" type="PLAIN_TEXT" />
+      <mapping pattern="GraqphqlSetting" type="PLAIN_TEXT" />
+      <mapping pattern="BenchmarkList" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="GraqphqlSetting" type="PLAIN_TEXT" />
       <mapping pattern="META-APP" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="COPYING" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="MANIFEST" type="PLAIN_TEXT" />
       <mapping pattern="" type="PLAIN_TEXT" />
-      <mapping ext="mo" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
-      <mapping ext="propertes" type="PLAIN_TEXT" />
-      <mapping ext="transport" type="PLAIN_TEXT" />
-      <mapping ext="ice" type="PLAIN_TEXT" />
-      <mapping ext="schemas" type="PLAIN_TEXT" />
-      <mapping ext="rej" type="PLAIN_TEXT" />
-      <mapping ext="dsl" type="PLAIN_TEXT" />
-      <mapping ext="orig" type="PLAIN_TEXT" />
-      <mapping ext="zh" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="schemas" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
+      <mapping ext="propertes" type="PLAIN_TEXT" />
+      <mapping ext="plugins" type="PLAIN_TEXT" />
+      <mapping ext="tmpl" type="PLAIN_TEXT" />
+      <mapping ext="orig" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="dsl" type="PLAIN_TEXT" />
+      <mapping ext="god" type="PLAIN_TEXT" />
       <mapping ext="pot" type="PLAIN_TEXT" />
-      <mapping ext="product" type="PLAIN_TEXT" />
-      <mapping ext="db" type="PLAIN_TEXT" />
-      <mapping ext="processor" type="PLAIN_TEXT" />
+      <mapping ext="ice" type="PLAIN_TEXT" />
+      <mapping ext="rej" type="PLAIN_TEXT" />
       <mapping ext="rdp" type="PLAIN_TEXT" />
       <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="orm" type="PLAIN_TEXT" />
-      <mapping ext="god" type="PLAIN_TEXT" />
-      <mapping ext="client" type="PLAIN_TEXT" />
-      <mapping ext="plugins" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="1" type="PLAIN_TEXT" />
-      <mapping ext="textile" type="PLAIN_TEXT" />
-      <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="working" type="PLAIN_TEXT" />
+      <mapping ext="transport" type="PLAIN_TEXT" />
+      <mapping ext="zh" type="PLAIN_TEXT" />
+      <mapping ext="processor" type="PLAIN_TEXT" />
+      <mapping ext="product" type="PLAIN_TEXT" />
+      <mapping ext="textile" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping ext="client" type="PLAIN_TEXT" />
       <mapping ext="ini" type="Properties" />
       <mapping ext="kml" type="XML" />
       <mapping ext="bxml" type="XML" />
