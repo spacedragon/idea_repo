@@ -1,11 +1,35 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-02-12T11:35:54</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2017-03-07T12:05:35</property>
+    <property name="modified">2018-02-02T19:28:09</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo for Powerline" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <colors>
+    <option name="FILESTATUS_ADDED" value="aedc70" />
+    <option name="FILESTATUS_COPIED" value="aedc70" />
+    <option name="FILESTATUS_DELETED" value="727072" />
+    <option name="FILESTATUS_HIJACKED" value="fbd85c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="727072" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f65f87" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f65f87" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f65f87" />
+    <option name="FILESTATUS_MERGED" value="ab9df5" />
+    <option name="FILESTATUS_MODIFIED" value="86dde9" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="86dde9" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="86dde9" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
+    <option name="FILESTATUS_SUPPRESSED" value="727072" />
+    <option name="FILESTATUS_SWITCHED" value="ab9df5" />
+    <option name="FILESTATUS_UNKNOWN" value="f59762" />
+    <option name="FILESTATUS_addedOutside" value="aedc70" />
+    <option name="FILESTATUS_changelistConflict" value="f65f87" />
+    <option name="FILESTATUS_modifiedOutside" value="aedc70" />
+  </colors>
 </scheme>

@@ -5,11 +5,7 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>x</mask>
-      <mask>jsx</mask>
       <mask>*.jsx?</mask>
       <mask>*.jsx</mask>
       <mask>*.js</mask>
@@ -25,8 +21,6 @@
       <mask>*.sca</mask>
       <mask>*.scal</mask>
       <mask>*.scala</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>js</mask>
       <mask>ja</mask>
       <mask>java</mask>
@@ -36,6 +30,11 @@
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
       <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
