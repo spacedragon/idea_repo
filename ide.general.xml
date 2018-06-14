@@ -13,5 +13,7 @@
     <entry key="SBT.system.in.process" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
+    <entry key="bigger.font.in.project.view" value="true" />
+    <entry key="mac.editor.thumb.default.alpha.base" value="102" />
   </component>
 </application>
